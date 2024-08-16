@@ -1,0 +1,42 @@
+*{
+    font-family: Arial;
+
+}
+table,th,td{
+    border: 6px solid skyblue;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 5% auto;
+    box-shadow:0 5px 10px rgba(0,0,5,10);
+}
+.table,td{
+    width:30px;
+}
+.calci{
+    background-color: skyblue;
+    height: 50px;
+    color: white;
+    font-size: 35px;
+}
+input{
+    font-size: 17px;
+    border: none;
+    height: 55px;
+    width: 200px;
+}
+.c{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(240, 65, 65);
+}
+.res{
+    text-align: left;
+    font-size: 15px;
+}
+button{
+    width: 65px;
+    height: 65px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
